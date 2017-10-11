@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://jisuanjixue.github.io/atom.xml" rel="self"/>
   <link href="http://jisuanjixue.github.io/"/>
-  <updated>2017-10-11T23:08:28+08:00</updated>
+  <updated>2017-10-11T23:29:18+08:00</updated>
   <id>http://jisuanjixue.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,7 @@
     <link href="http://jisuanjixue.github.io/blog/2017/10/11/my-first-blog/"/>
     <updated>2017-10-11T23:05:37+08:00</updated>
     <id>http://jisuanjixue.github.io/blog/2017/10/11/my-first-blog</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>你好!今天建立了一个博客!</p>
 ]]></content>
   </entry>
   
