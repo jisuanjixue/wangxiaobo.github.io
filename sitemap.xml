@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://jisuanjixue.github.io/blog/2017/10/11/my-first-blog/</loc>
+<lastmod>2017-10-11T23:05:37+08:00</lastmod>
+</url>
+<url>
 <loc>http://jisuanjixue.github.io/blog/archives/</loc>
 </url>
 <url>
 <loc>http://jisuanjixue.github.io/</loc>
+</url>
+<url>
+<loc>http://jisuanjixue.github.io/super-awesome/page.html</loc>
 </url>
 </urlset>
